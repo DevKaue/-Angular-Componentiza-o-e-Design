@@ -1,5 +1,10 @@
 # JornadaMilhas
 
+# -Angular-Componentiza-o-e-Design
+ Angular: componentização e design com Angular Material - Curso feito na Alura
+
+projeto feito utilizando angular cli v16 ->  npm install -g @angular/cli@16.0.0
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.19.
 
 ## Development server
